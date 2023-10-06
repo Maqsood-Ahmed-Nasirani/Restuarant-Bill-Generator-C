@@ -1,0 +1,2 @@
+# Restuarant-Bill-Generator-C
+A restaurant bill generator in C is a program that calculates and prints a customer's bill for the food and drinks they have ordered at a restaurant. It takes input from the user, such as the menu items ordered and their quantities, and then calculates the total cost of the meal, including taxes and optional tips. Finally, it generates a formatted bill that includes all the necessary details for the customer.
